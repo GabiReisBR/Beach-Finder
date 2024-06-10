@@ -199,8 +199,7 @@ class _AddBeachPageState extends State<AddBeachPage> {
                 Center(
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      backgroundColor:
-                          Color(0xFFFD6A16), // Cor de fundo laranja
+                      backgroundColor: Color(0xFFFD6A16),
                       padding:
                           EdgeInsets.symmetric(horizontal: 40, vertical: 15),
                       textStyle:
